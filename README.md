@@ -77,6 +77,7 @@ warrant good asset names. Here are some detailed rules regarding each element.
 | Prefab           | PF_   |||
 | Particle System  | PS_   |||
 | Audio Clip       | AC_   |||
+| JSON Text File   | TXT_  |||
 
 <a name="2.2.2"><a>
 
