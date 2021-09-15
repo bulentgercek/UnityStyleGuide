@@ -98,6 +98,7 @@ warrant good asset names. Here are some detailed rules regarding each element.
 | Texture (Bump)                      | TT_    | _Bump      ||
 | Texture (Specular)                  | TT_    | _Specular  ||
 | Texture (Ambient Occlusion)         | TT_    | _AO        ||
+| Texture (Tilemap)                   | TT_    | _TM        ||
 
 <a name="3"><a>
 
