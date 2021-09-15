@@ -67,18 +67,19 @@ warrant good asset names. Here are some detailed rules regarding each element.
 
 #### 2.2.1 Most Common
 
-| Asset Type       |Prefix | Suffix     | Notes |
-| ---------------- | ----- | ---------- | ----- |
-| Scene / Level    | SC_   |||
-| Level (Lighting) | LS_   |||
-| Mesh             | SM_   |||
-| Material         | MA_   |||
-| Texture          | TT_   |||
-| Prefab           | PF_   |||
-| Particle System  | PS_   |||
-| Audio Clip       | AC_   |||
-| Animation Clip   | ANC_  |||
-| JSON Text File   | TXT_  |||
+| Asset Type            |Prefix  | Suffix     | Notes |
+| --------------------- | ------ | ---------- | ----- |
+| Scene / Level         | SC_    |||
+| Level (Lighting)      | LS_    |||
+| Mesh                  | SM_    |||
+| Material              | MA_    |||
+| Texture               | TT_    |||
+| Prefab                | PF_    |||
+| Particle System       | PS_    |||
+| Audio Clip            | AC_    |||
+| Animation Clip        | ANCL_  |||
+| Animation Controller  | ANCR_  |||
+| JSON Text File        | TXT_   |||
 
 <a name="2.2.2"><a>
 
